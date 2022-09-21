@@ -1,0 +1,42 @@
+.header1{
+    top: 0px;
+    display: flex;
+    background-color: rgb(170, 23, 23);
+    position: absolute;
+    overflow: auto;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+}
+.header1-sol{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header1-sag{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.dil{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left:100px;
+    margin-right: 12px;
+
+}
+.dil2{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 18px;
+    margin-right: 795px;
+    opacity: 0.5;
+}
+.üstbilgi{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 18px;
+    margin-right: 68px;
+}

@@ -1,0 +1,37 @@
+.enalt{
+    display: grid;
+    grid-template-columns: 410px 550px 310px 430px;
+    position: absolute;
+    bottom: 0px;
+    height: 630px;
+    background-color: #3a4148;
+    top: 425px;
+    padding: 30px 100px;
+    left: -10px;
+    
+}
+.baslıkson{
+    color: white;
+    margin-top: 11px;
+    display: inline-block;
+    width: 450px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 21px;
+    font-weight: 370;
+    margin-bottom: 10px;
+}
+.genelcontent{
+    color: white;
+    margin-top: 9px;
+    display: inline-block;
+    width: 400px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    
+   
+}
+.ev{
+    font-size: 30px;
+    margin-top: 45px;
+}
